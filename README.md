@@ -1,4 +1,3 @@
-Here's a basic `README.md` file that you can use for your GitHub repository. It includes descriptions of your script, how to install dependencies, run the script, and other relevant details.
 
 ```markdown
 # SolXEN Analysis
