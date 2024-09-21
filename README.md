@@ -35,9 +35,9 @@ npm install @solana/web3.js prompt-sync axios colors cli-table3
 
 1. Run the script:
 
-```bash
+
 node solxen-analysis.js
-```
+
 
 2. Follow the on-screen prompts to enter the AMP value for the analysis.
 
@@ -53,14 +53,12 @@ The script will output various tables summarizing:
 
 You can update the RPC endpoint used for querying Solana blockchain data by modifying the `RPC_ENDPOINT` constant in the `solxen-analysis.js` file:
 
-```javascript
 const RPC_ENDPOINT = 'https://your-solana-endpoint-url';
-```
+
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 This `README.md` file provides all the essential information about your project: the features, how to install and run the script, and an example of what the output will look like.
 
