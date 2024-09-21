@@ -13,23 +13,23 @@ A Node.js tool for analyzing SolXEN mining transactions and estimating the cost 
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v20.16.0 or higher recommended)
-- Solana RPC endpoint (you can use [QuickNode](https://www.quicknode.com/) or any other Solana provider)
+- Node.js (v20.16.0 or higher recommended)
+- Solana RPC endpoint (you can use QuickNode or any other Solana provider)
 
 ## Installation
 
 1. Clone the repository:
 
-```bash
+
 git clone https://github.com/your-username/solxen-analysis.git
 cd solxen-analysis
-```
+
 
 2. Install dependencies:
 
-```bash
+
 npm install @solana/web3.js prompt-sync axios colors cli-table3
-```
+
 
 ## Usage
 
